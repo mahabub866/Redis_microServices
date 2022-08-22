@@ -1,0 +1,12 @@
+fastapi
+redis-om
+uvicorn
+# pydantic
+# sqlalchemy
+# python-multipart
+# aiofiles
+# passlib
+# bcrypt
+# python-jose
+
+
